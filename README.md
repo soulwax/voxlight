@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxlight logo"/>
+</p>
+
 # voxlight
 
 A lightweight, pure Dart 2D visibility polygon, dynamic shadow casting, 2D light evaluation, and grid fog of war engine.
